@@ -18,4 +18,4 @@ spec:
       - subPath: "spec.replicas"
         condition: MustExist
     assign:
-      value: 1
+      value: 2
